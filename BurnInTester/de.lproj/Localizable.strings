@@ -1,0 +1,14 @@
+/*
+ Localizable.strings
+ BurnInTester
+ 
+ Created by ptgms on 06.05.20.
+ Copyright © 2020 ptgms. All rights reserved.
+ */
+"awesome" = "Super!";
+"screenworks" = "Dein Bildschirm hat also keine Probleme!";
+"damn" = "Verdammt!";
+"screenbroke" = "Dein Display hat Probleme!";
+
+"screensize" = "Bildschirmgröße: ";
+"iphonemodel" = "iPhone-Modell: ";

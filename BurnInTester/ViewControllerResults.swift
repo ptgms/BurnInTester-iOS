@@ -23,8 +23,8 @@ class ViewControllerResults: UIViewController {
         UhOh.isHidden = false
         UhOh.alpha = 0.0
         let screenSize = UIScreen.main.bounds
-        infoRes.text = "Screen size: " + screenSize.width.description + "x" + screenSize.height.description
-        infoModel.text = "iPhone model: " + modelIdentifier()
+        infoRes.text = "screensize".localized + screenSize.width.description + "x" + screenSize.height.description
+        infoModel.text = "iphonemodel".localized + modelIdentifier()
         // Do any additional setup after loading the view.
         
     }
@@ -35,14 +35,14 @@ class ViewControllerResults: UIViewController {
             UIView.animate(withDuration: 0.5, delay: 0, options: .curveEaseIn, animations: {
                 self.UhOh.alpha = 0.0
             }, completion: nil)
-            self.text1.text = "Awesome!"
-            self.text2.text = "You marked your screen as working without any issues!"
+            self.text1.text = "awesome".localized
+            self.text2.text = "screenworks".localized
         case 1:
             UIView.animate(withDuration: 0.5, delay: 0, options: .curveEaseIn, animations: {
                 self.UhOh.alpha = 1.0
             }, completion: nil)
-            self.text1.text = "Damn!"
-            self.text2.text = "You marked your screen as having issues!"
+            self.text1.text = "damn".localized
+            self.text2.text = "screenbroke".localized
         default:
             exit(-1)
         }

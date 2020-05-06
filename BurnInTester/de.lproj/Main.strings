@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Screen resolution:"; ObjectID = "1FH-32-aZc"; */
+"1FH-32-aZc.text" = "Bildschirmauflösung:";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Foc-Bv-g7y"; */
+"Foc-Bv-g7y.normalTitle" = "Fortfahren";
+
+/* Class = "UILabel"; text = "For iPhones using an OLED Screen"; ObjectID = "H4e-AS-9RL"; */
+"H4e-AS-9RL.text" = "Für iPhones mit einem OLED-Display.";
+
+/* Class = "UILabel"; text = "Burn-In Tester"; ObjectID = "Mys-5h-SIi"; */
+"Mys-5h-SIi.text" = "Burn-In Tester";
+
+/* Class = "UILabel"; text = "Yikes, what now?"; ObjectID = "NvW-sd-jl3"; */
+"NvW-sd-jl3.text" = "Ouch, was nun?";
+
+/* Class = "UILabel"; text = "You cannot repair your screen using software. You must physically replace your screen, this can be costly."; ObjectID = "PyJ-CM-KM7"; */
+"PyJ-CM-KM7.text" = "Du kannst nicht dein Display mit Software reparieren. Du musst dein Display austauschen, was teuer werden kann.";
+
+/* Class = "UIButton"; normalTitle = "Jump to results"; ObjectID = "YFp-MY-Xx6"; */
+"YFp-MY-Xx6.normalTitle" = "Zu Ergebnissen springen";
+
+/* Class = "UIButton"; normalTitle = "Start the test"; ObjectID = "cbd-MJ-ox8"; */
+"cbd-MJ-ox8.normalTitle" = "Test starten";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "cj8-8p-SJh"; */
+"cj8-8p-SJh.text" = "Information";
+
+/* Class = "UILabel"; text = "Awesome!"; ObjectID = "coY-Rd-50e"; */
+"coY-Rd-50e.text" = "Super!";
+
+/* Class = "UISegmentedControl"; ety-ES-iWm.segmentTitles[0] = "No marks"; ObjectID = "ety-ES-iWm"; */
+"ety-ES-iWm.segmentTitles[0]" = "Keine Probleme";
+
+/* Class = "UISegmentedControl"; ety-ES-iWm.segmentTitles[1] = "Marks visible"; ObjectID = "ety-ES-iWm"; */
+"ety-ES-iWm.segmentTitles[1]" = "Probleme";
+
+/* Class = "UILabel"; text = "You marked your screen as working without any issues!"; ObjectID = "iQx-kK-MmR"; */
+"iQx-kK-MmR.text" = "Dein Bildschirm hat also keine Probleme!";
+
+/* Class = "UILabel"; text = "The results are here!"; ObjectID = "jfZ-rt-Kam"; */
+"jfZ-rt-Kam.text" = "Die Resultate sind hier!";
+
+/* Class = "UILabel"; text = "iPhone model: "; ObjectID = "vLT-4K-PX5"; */
+"vLT-4K-PX5.text" = "iPhone-Model: ";
+
+/* Class = "UILabel"; text = "Please rotate your device now."; ObjectID = "vuh-OO-sad"; */
+"vuh-OO-sad.text" = "Bitte rotiere jetzt dein Display.";
+
+/* Class = "UIButton"; normalTitle = "Go to home screen"; ObjectID = "yV1-am-jNr"; */
+"yV1-am-jNr.normalTitle" = "Zur Haupt-Seite";
+
+//Note: Please rotate your device when being told to since the navigation pill hides some parts of the screen otherwise
+"fkO-ih-cv6.text" = "Notiz: Bitte rotiere dein Display wenn es gesagt wird da sonst die Navigationsleiste einen Teil des Displays blockiert.";
+
+//Select the fitting option below depending on if you saw any marks during the test.
+"rZa-bj-Jsn.text" = "Wähle die passende Option aus je nachdem ob du irgendwelche Probleme feststellen konntest.";
